@@ -1,1 +1,1 @@
-miscellaneous little programs for my linux system
+miscellaneous programs and things for my linux system
