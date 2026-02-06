@@ -39,3 +39,6 @@ playerctl-monitor -f "@a@ - @t@    @pF@"
 playerctl-monitor -f "[ @pF@ / @lF@ ]    @t@ on @al@ by @a@"
 # [ 0:04 / 2:28 ]    Stateside + Bladee on Fancy Some More? by PinkPantheress
 ```
+
+## Todo
+Panics when not playing from spotify
